@@ -3,7 +3,7 @@ import React from "react";
 
 const EmptyMemories = () => {
   return (
-    <div className="flex flex-1 items-center justify-center">
+    <div className="flex flex-1 items-center justify-center p-16">
       <p className="text-center leading-relaxed">
         Você ainda não registrou nenhuma lembrança, <br /> comece a{" "}
         <Link
